@@ -4,5 +4,6 @@
 		"editor.lineHighlightBorder": "#9fced11f",
 		"terminal.foreground": "#1a93fd",
 		"terminalCursor.foreground": "#135a05"
-	}
+	},
+	"liveServer.settings.port": 5501
 }
